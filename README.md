@@ -29,7 +29,8 @@ Create a command, called "echo", that will just output the parameters
 ## Fifth assignment
 
 Create a few commands:
-	"sum", outputs the sum of two parameters if they're numbers, else shows an error message.
-	"sub", outputs the difference between two parameters if they're numbers, else shows an error message.
-	"fact", outputs the factorial of a parameter if it's a number, else shows an error message.
-	"isPrime", outputs "true" if the number is a prime number, and "false" if it isn't.
+
+	- "sum", outputs the sum of two parameters if they're numbers, else shows an error message.
+	- "sub", outputs the difference between two parameters if they're numbers, else shows an error message.
+	- "fact", outputs the factorial of a parameter if it's a number, else shows an error message.
+	- "isPrime", outputs "true" if the number is a prime number, and "false" if it isn't.
