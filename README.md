@@ -16,7 +16,7 @@ Create a basic command prompt. It mus show a ">" when it's ready to accept input
 
 ## Second assignment
 
-Create some way to store multiple commands, and access them by name. Every command should be a closed entity, have a function creating it, and a second function executing it, and a third function destroying it.
+Create some way to store multiple commands, and access them by name.
 
 ## Third assignment
 
